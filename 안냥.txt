@@ -1,1 +1,4 @@
-얏호 
+public Class 안녕{
+
+
+}
